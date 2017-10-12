@@ -1,0 +1,18 @@
+section {
+    background-color: #DDD;
+}
+
+footer {
+    background-color: #C4C4FF;
+    color: #222;
+    padding: 20px 0 80px 0;
+}
+
+.table-escala th{
+    padding: 6px 12px;
+}
+
+.menu-escala {
+    padding: 20px 10px;
+}
+
